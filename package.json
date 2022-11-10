@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node Home.js",
+    "test": "node Home.js"
   },
   "repository": {
     "type": "git",
