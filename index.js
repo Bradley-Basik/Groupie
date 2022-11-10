@@ -1,5 +1,5 @@
 // console.info('Declaring dependencies...');
-require('dotenv').config();
+/*require('dotenv').config();
 
 const express = require('express')
 const {urlencoded, json} = require('body-parser')
@@ -19,14 +19,11 @@ app.use(require('cookie-parser')());
 
 
 
-/*
- **
- ** Add new resources here
- **
- */
+
 
 // console.info('...loaded resources.');
 
 app.listen(PORT, () => {
   console.log(`Server running on port: ${PORT}`);
 });
+*/
